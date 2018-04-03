@@ -1,14 +1,14 @@
 Arguments: 
-  /home/long/.nvm/versions/node/v8.9.1/bin/node /home/long/.yarn/bin/yarn.js start
+  /home/shen/.nvm/versions/node/v8.10.0/bin/node /home/shen/.nvm/versions/node/v8.10.0/bin/yarn start
 
 PATH: 
-  /home/long/.yarn/bin:/home/long/.config/yarn/global/node_modules/.bin:/home/long/.nvm/versions/node/v8.9.1/bin:/home/long/bin:/home/long/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin
+  /home/shen/.nvm/versions/node/v8.10.0/bin:/home/shen/bin:/home/shen/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin
 
 Yarn version: 
-  1.6.0-20180315.1219
+  1.5.1
 
 Node version: 
-  8.9.1
+  8.10.0
 
 Platform: 
   linux x64
@@ -2137,14 +2137,14 @@ Lockfile:
 Trace: 
   Error: Command failed.
   Exit code: 1
-  Command: node server.js
-  Arguments: 
-  Directory: /home/long/Desktop/node-api
+  Command: sh
+  Arguments: -c node server.js
+  Directory: /home/shen/Desktop/node-mongodb-api
   Output:
   
-      at ProcessTermError.MessageError (/home/long/.yarn/lib/cli.js:186:110)
-      at new ProcessTermError (/home/long/.yarn/lib/cli.js:226:113)
-      at ChildProcess.<anonymous> (/home/long/.yarn/lib/cli.js:30281:17)
+      at ProcessTermError.MessageError (/home/shen/.nvm/versions/node/v8.10.0/lib/node_modules/yarn/lib/cli.js:186:110)
+      at new ProcessTermError (/home/shen/.nvm/versions/node/v8.10.0/lib/node_modules/yarn/lib/cli.js:226:113)
+      at ChildProcess.<anonymous> (/home/shen/.nvm/versions/node/v8.10.0/lib/node_modules/yarn/lib/cli.js:30281:17)
       at emitTwo (events.js:126:13)
       at ChildProcess.emit (events.js:214:7)
       at maybeClose (internal/child_process.js:925:16)
